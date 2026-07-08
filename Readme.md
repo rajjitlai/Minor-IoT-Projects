@@ -102,7 +102,7 @@ When building and deploying these projects, keep the following guidelines in min
 You can clone the repository using:
 
 ```bash
-git clone https://github.com/rajjitlai/home-iot-systems.git
+git https://github.com/rajjitlai/Minor-IoT-Projects
 cd home-iot-systems
 ```
 
